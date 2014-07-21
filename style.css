@@ -14,6 +14,7 @@ ul{
 
 .menu li:hover{
 	border-top: 3px solid #8B4513 ;
+	line-height: 65px;
 }
 
 .menu img{
@@ -101,7 +102,7 @@ ul{
 }
 
 .down {
-	position: relative;	
+	position: relative;
 	width: 100%;
 }
 .like p{
@@ -140,22 +141,21 @@ ul{
 	border: solid;
     border-color: #fff;
     top: 0;
-    padding: 10px 40px 10px 40px;
     margin-top: 500px;
     margin-left: 510px;
     font-family: sans-serif;
+}
+.our a:hover{
+	color: #8B4513;
 }
 
 .our a{
 	text-decoration: none;
 	color:#fff;
+    padding: 50px;
+	line-height: 2em;
 }
-.our a:hover{
-	color: #8B4513;
-}
-.our p{
-	margin: 0px;
-}
+
 #llac{
 	height: 130px;
 	text-align: center;
