@@ -1,24 +1,28 @@
 ul{
 	margin: 0px;
 }
+#divOuter{
+	margin:auto;
+	width:1002px;
+}
 
 .menu li{
 	list-style:none;
 	display: inline-block;
 	vertical-align: top;
 	line-height: 70px;
-	padding: 0 50px;
+	padding: 0 30px;
 	font-size: 16px;
 	font-weight: 700;
 }
 
 .menu li:hover{
 	border-top: 3px solid #8B4513 ;
-	line-height: 65px;
+	line-height: 63px;
 }
 
 .menu img{
-	margin-right: 110px;
+	margin-right: 70px;
 }
 
 .menu a{
@@ -35,27 +39,29 @@ ul{
 	left: 0;
 	right: 0;
 	margin: auto;
-	margin-top: 170px;
 	color: #fff;
 	display: table;
+	margin: 155px auto;
+	width:1002px;
+
 }
 
 #nau{
 	font-weight: 700;
 	width: 70%;
-	font-size:70px;
-	text-align: center;
+	font-size:55px;
 	font-family: sans-serif;
 	margin-bottom: 20px;
+	margin-left: 25px;
 }
 
 #ex{
-	width: 45%;
-	margin-left: 40px;
+	width: 50%;
+	margin-left: 25px;
 	text-align: left;
-	margin-top: 0px;
-	font-size:16px;
+	font-size:15px;
 	font-family: sans-serif;
+
 }
 
 .whi{
@@ -95,7 +101,7 @@ ul{
 
 #visi{
 	font-size: 70px;
-	color: rgb(179, 137, 62);
+	color: #8B4513 ;
 	margin-left: 100px;
 	margin-top: 15px;
 	float: left;
@@ -109,18 +115,18 @@ ul{
 	position: absolute;
 	color: #fff;
 	text-align: center;
-	width: 60%;
+	width: 80%;
 }
 .like{
-	font-size: 60px;
-	line-height: 100px;
+	font-size: 40px;
+	line-height: 80px;
 	top: 0;
 	bottom: 0;
 	left: 0;
 	right: 0;
 	position: absolute;
-	margin-top: 60px;
-	margin-left: 370px;
+	margin-top: 50px;
+	margin-left: 150px;
 	font-family: sans-serif;
 }
 
@@ -132,18 +138,22 @@ ul{
 	left: 0;
 	right: 0;
 	display:inline;
-	margin-top: 365px;
+	margin-top: 280px;
 	text-align: center;
+}
+.gr img
+{
+	width: 40%
 }
 .our{
 	position: absolute;
 	font-size: 40px;
 	border: solid;
-    border-color: #fff;
-    top: 0;
-    margin-top: 500px;
-    margin-left: 510px;
-    font-family: sans-serif;
+   	border-color: #fff;
+   	top: 0;
+   	margin-top: 370px;
+   	margin-left: 340px;
+   	font-family: sans-serif;
 }
 .our a:hover{
 	color: #8B4513;
@@ -152,8 +162,8 @@ ul{
 .our a{
 	text-decoration: none;
 	color:#fff;
-    padding: 50px;
-	line-height: 2em;
+  	padding: 40px;
+	line-height: 1.5em;
 }
 
 #llac{
